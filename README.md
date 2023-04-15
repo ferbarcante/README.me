@@ -2,7 +2,7 @@
 
 
 * 🎓 Estou cursando <strong>Engenharia de Software</strong>
-* 📖 Estudando <strong>front-end</strong> e <strong>mandarim</strong> 
+* 📖 Estudando <strong>java</strong> e <strong>mandarim</strong> 
 * 🗣️: <i>inglês avançado, espanhol intermediário e mandarim básico</i>
 
 <div style="display: inline_block"><br>
