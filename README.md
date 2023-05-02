@@ -1,9 +1,9 @@
 ## Olá, sou a Fernanda.
 
 
-* 🎓 Estou cursando <strong>Engenharia de Software</strong>
-* 📖 Estudando <strong>java!</strong>  
-* 🗣️: <i>inglês avançado, espanhol intermediário e mandarim básico</i>
+* 🎓 Graduating in <strong>Software Engineering</strong>
+* 📖 Studying <strong>java!</strong>  
+* 🗣️: <i>Portuguese (A1), English (A2), Spanish (B2) e Mandarim (C2) </i>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
