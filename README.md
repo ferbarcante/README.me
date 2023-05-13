@@ -3,7 +3,7 @@
 
 * 🎓 Graduating in <strong>Software Engineering</strong>
 * 📖 Studying <strong>java and python!!</strong>  
-* 🗣️: <i>Portuguese (A1), English (C2), Spanish (B2) e Mandarim (A2) </i>
+* 🗣️: <i>Portuguese (C1), English (C2), Spanish (B2) e Mandarim (A2) </i>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
