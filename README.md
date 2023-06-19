@@ -25,7 +25,7 @@
 
 ## Studying in this moment:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![SpringBoot](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Sql](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFE4E1&height=120&section=footer"/>
