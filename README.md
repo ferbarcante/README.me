@@ -26,8 +26,7 @@
 
 
 ## Studying in this moment:
-![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFE4E1&height=120&section=footer"/>
